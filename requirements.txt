@@ -1,10 +1,8 @@
-streamlit
-pymupdf
-faiss-cpu
-sentence-transformers
-transformers
-huggingface-hub
+streamlit>=1.30.0
 pandas
-scikit-learn
 pdfplumber
-googlegenerativeai
+scikit-learn
+sentence-transformers
+google-generativeai
+chromadb>=0.5.0
+faiss-cpu
