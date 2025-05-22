@@ -6,3 +6,4 @@ transformers
 huggingface-hub
 pandas
 scikit-learn
+pdfplumber
